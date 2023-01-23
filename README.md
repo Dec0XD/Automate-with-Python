@@ -54,5 +54,5 @@ https://user-images.githubusercontent.com/83669560/214111537-fc8a2314-1599-4494-
 
 #
 
-Layout GUI criado por Jhonatan do Dev Aprender
+Layout GUI criado por Jhonatan do Dev Aprender <br>
 Create by Dec0XD.
