@@ -1,4 +1,4 @@
-<img alt="videos/img" src="sprites/Speed_Runner.png" width="30%" align="center">
+<img alt="videos/img" src="automação em slow_Trim.mp4" width="30%" align="center">
 
 <h1 align="center"> Automação de um sistema de cadastro de produtos </h1>
 
