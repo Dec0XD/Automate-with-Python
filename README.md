@@ -1,5 +1,3 @@
-<img alt="videos/img" src="videos/img/automação em slow_Trim.mp4" width="30%" align="center">
-
 <h1 align="center"> Automação de um sistema de cadastro de produtos </h1>
 
 <br>
@@ -43,6 +41,13 @@ Projeto realizado para aprender mais sobre automação de processos e melhorar a
 <br>
 
 ## 📸 Layouts
+
+
+https://user-images.githubusercontent.com/83669560/214111528-5560d45a-0cf5-4b86-a902-8f9a27e20fa5.mp4
+
+
+
+https://user-images.githubusercontent.com/83669560/214111537-fc8a2314-1599-4494-84d7-a5ee8d253b0a.mp4
 
 
 <br>
