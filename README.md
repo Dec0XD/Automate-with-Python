@@ -1,4 +1,4 @@
-<img alt="View_jogo" src="sprites/Speed_Runner.png" width="30%" align="center">
+<img alt="videos/img" src="sprites/Speed_Runner.png" width="30%" align="center">
 
 <h1 align="center"> Automação de um sistema de cadastro de produtos </h1>
 
