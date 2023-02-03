@@ -39,4 +39,4 @@ with open('produtos.txt', 'r') as arquivo:
         pyautogui.write(preço)
         # - Clicar em registar
         pyautogui.click(592,735, )
-        sleep(1)
+        
